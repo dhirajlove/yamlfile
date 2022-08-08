@@ -7,7 +7,7 @@ metadata:
     author: dhiraj
 spec:
   containers:
-    - name: myhttpd
+    - name: httpd-pod
       image: httpd
       ports:
         - containerPort: 80
