@@ -1,0 +1,80 @@
+python programming
+features of python
+1. feature of language are nothing but services or facilities provided by language developer and used by programmers for developing real time application.
+2. python programming provides 11 features they are
+   1. simple
+   2. freeware and open source
+   3. platform independent language
+   4. dynamically typed prgramming language
+   5. interpreted programming language ( source code ----> byte)
+   6. high level programming language
+   7. both procedural and object oriented programming language
+             a. classes
+             b. objects
+             c. data encapsulation
+             d. data abstraction
+             e. polymorphism
+             f. inheritance
+             g. message passing
+   8. robust (strong)
+   9. extensible 
+  10. embedded
+  11. supports third party APIs such as Numpy, Pandas, matlab lib scipy and scikit
+  
+
+======================================================================================================
+ 
+* 1 simple 
+   
+    python is the one of simple programming language bcoz of of 3 imp technical features
+    they are
+    
+1 libraries in python are called as Modules
+import calender= importing libraries
+
+module is collection of functions
+
+python programming provides rich set of APIs so that python programmer can reuse the pre defined code without writing our code
+ defination of API (application programming Interface)
+
+=> An API is a collection of Modules
+a modules is collection of attributes , funtions and class names . examples calenders, math , cmath, random,... etc
+
+
+* 2 garbage collector facilities provided in python
+ garbage collector eliminate empty space. it is inbuilt features of python
+it improves performance of python based program
+garbage collector is running in the background of regular python program
+garbage collector take care of memory management
+
+in english= 1. alphabet 2. words 3. grammer
+in python=  1. accurate concept 2. APIs --modules 3. syntaxes
+
+python provides user friendly syntax so thaty we can develop error free
+
+
+interpreted programming language
+in general we have two types of programming language they are
+1. compiler basewd programming language(c,c++, java,c#.net..etc)
+2. interpreter based programming language(python,8086)
+
+when we executr python program ,two process takes place internally
+a. compilation process
+b. execution process
+
+python virtual machine(PVM)
+pvm is one of the program in python software and whose role is to read line by line of byte
+code and converted into machine level language
+===================================================================================================================***********
+
+
+****************DAY 3**************************
+
+platform independent language
+python is one of the indepemndent language 
+
+
+data types
+
+all data types of c programming have different memory allocation
+it is dependent on os
