@@ -9,4 +9,3 @@ spec:
   containers:
     - name: webserver
       image: nginx
-      
